@@ -1,5 +1,5 @@
 # AtiliQ-Mart-Supply-Chain-Analysis FMCG Domain.
-[(atliq mart supply chain photo.png)
+![(atliq mart supply chain photo.png)
 ](https://github.com/ashishkushbi/AtiliQ-Mart-Supply-Chain-Analysis/blob/e1ae241b3f332877b08137dc32ed157ef775c5ca/atliq%20mart%20supply%20chain%20photo.png)
 
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 ------------------------------------------------------------------------
 **Data Model -**
-[atliq mart data model.png](https://github.com/ashishkushbi/AtiliQ-Mart-Supply-Chain-Analysis/blob/e1ae241b3f332877b08137dc32ed157ef775c5ca/atliq%20mart%20data%20model.png)
+![atliq mart data model.png](https://github.com/ashishkushbi/AtiliQ-Mart-Supply-Chain-Analysis/blob/e1ae241b3f332877b08137dc32ed157ef775c5ca/atliq%20mart%20data%20model.png)
 
 ------------------------------------------------------------------------
 
