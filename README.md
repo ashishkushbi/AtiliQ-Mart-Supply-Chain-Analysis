@@ -43,20 +43,20 @@ I have evaluated the service levels using the following key performance indicato
 
 **1. Order Statistics of AtliQ Mart:**  
 
-   A. Total Orders: 31.73k
-
-   B. On-Time Deliveries (OT%): 18.73k
-      On-Time Delivery
-      Achieved: 59.03%
-      Target: 86.09%
-
-   C. In-Full Deliveries (IF%): 16.75k
-      Achieved: 52.78%
-      Target: 76.51%
-
-   D. On-Time & In-Full Deliveries (OTIF%): 9.21k
-      Achieved: 29%
-      Target: 65.91%
+      A. Total Orders: 31.73k
+   
+      B. On-Time Deliveries (OT%): 18.73k
+         On-Time Delivery
+         Achieved: 59.03%
+         Target: 86.09%
+   
+      C. In-Full Deliveries (IF%): 16.75k
+         Achieved: 52.78%
+         Target: 76.51%
+   
+      D. On-Time & In-Full Deliveries (OTIF%): 9.21k
+         Achieved: 29%
+         Target: 65.91%
 
 Over all:
 Significant gaps between achieved performance and targets are evident.
