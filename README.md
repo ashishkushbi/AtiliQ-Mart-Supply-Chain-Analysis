@@ -19,9 +19,9 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 ------------------------------------------------------------------------
 
-Challenge Source Link - https://codebasics.io/challenge/codebasics-resume-project-challenge
-Power BI Dashboard Link - 
-Video Presentation Link -
+Challenge Source Link - https://codebasics.io/challenge/codebasics-resume-project-challenge.
+Power BI Dashboard File Link - https://github.com/ashishkushbi/AtiliQ-Mart-Supply-Chain-Analysis/blob/main/AtliQ%20Mart%20Supply%20Chain%20Analysis%20RPC%202%20Codebasics.pbix.
+Video Presentation Link - 
 
 ------------------------------------------------------------------------
 
