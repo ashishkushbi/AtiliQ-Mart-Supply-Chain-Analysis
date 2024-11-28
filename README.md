@@ -1,14 +1,16 @@
 # AtiliQ-Mart-Supply-Chain-Analysis
 FMCG Domain
 
-**Problem Statement**
+**Problem Statement:**
+
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
 AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
-**Task:  **
+**Task:**
+
 Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
 
 🔰Create the metrics according to the metrics list.
@@ -16,11 +18,13 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 🔰Create relevant insights not provided in the metric list/stakeholder meeting.
 
 ------------------------------------------------------------------------
+
 Challenge Source Link - https://codebasics.io/challenge/codebasics-resume-project-challenge
 Power BI Dashboard Link - 
 Video Presentation Link -
 
 ------------------------------------------------------------------------
+
 
 **Key Metrirics -**
 
@@ -33,7 +37,9 @@ I have evaluated the service levels using the following key performance indicato
 5. VOFR% - Total Quantity shipped / Total Quantity Ordered
 
 
+
 **Insights -**
+
 
 **1. Order Statistics of AtliQ Mart:**  
 
@@ -57,6 +63,7 @@ Significant gaps between achieved performance and targets are evident.
 This discrepancy is a primary reason behind customers discontinuing contracts.
 
 
+
 **2. Actual Vs Target Performace of Cities:**
 
 Ahmedabad:
@@ -75,11 +82,13 @@ IF%: Achieved 51.56%, missing the target by 24.95%.
 OTIF%: Achieved 27.78%, a gap of 38.13% from the target.
 
 
+
 **3. Customer Insights & Product Insights :**
 
 A. The top 3 customers who are most likely to discontinue the contract are Coolblue, Acclaimed Stores and Lotus Mart.
 B. Top 3 most delayed products are AM Ghee, AM Milk and AM Butter.
 C. Bottom 3 products by LIFR% Butter 250, Biscuits 250 and Tea 250.
+
 
 
 **4. Order Line & Volume Fill Report :**
@@ -92,6 +101,8 @@ VOFR% : 96.59%
 Total Order Quantity : 13.43 M
 Total Delivered Quantity : 12.97 M
 Un-Delivered Quantity : 458k
+
+
 
 **5. Delivery Day’s Insights :**
 
